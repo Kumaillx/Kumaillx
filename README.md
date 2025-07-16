@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning GIT
 - 💞️ I’m looking to collaborate on Full-stack Development projects
 - 📫 How to reach me m.kumail80@gmail.com
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am an Electrical Engineer
 
 <!---
