@@ -12,5 +12,5 @@ I’m continuously learning and expanding my knowledge. Explore my repositories 
 
 **Feel free to connect for exciting opportunities or open-source contributions!**
 
-[LinkedIn: www.linkedin.com/in/syed-muhammad-kumail-ali-730037252] | [My Website: Coming Soon] | [Email: m.kumail80@gmail.com]
+[LinkedIn: www.linkedin.com/in/syed-muhammad-kumail-ali-730037252] | [Email: m.kumail80@gmail.com]
 
