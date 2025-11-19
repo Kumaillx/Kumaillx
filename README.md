@@ -1,7 +1,5 @@
 # 💫 About Me:
-Hi, I'm Kumail, a full-stack developer with 1 year of experience in Web applications and Mobile applications.
-My work is all about discipline while coding, problem-solving, and implementing dynamic code in my projects.   
-I’m continuously learning and expanding my knowledge. Explore my repositories to see my work in action. 
+Embedded Systems Engineer specializing in firmware development, sensor interfacing, board bring-up, hardware debugging, and communication protocols. I design, test, and optimize embedded applications with a focus on performance, reliability, and real-world deployment in IoT and smart energy systems.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Kumaillx) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/syed-muhammad-kumail-ali-730037252/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:m.kumail80@gmail.com) 
